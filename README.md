@@ -17,7 +17,7 @@ API para gestión de tareas con autenticación JWT y autorización por roles, de
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/task-management-api.git
+git clone https://github.com/jeam458/pruebatasks.git
 cd task-management-api
 
 # Instalar dependencias
